@@ -531,6 +531,31 @@ position: relative;
     
   }
 
+
+  @media (max-width:720px) {
+
+    #main {
+   height: 100vh;
+      
+      background-size: 720px auto;
+    }
+
+    .nav{
+      width: 720px;
+    }
+  .contact-input {
+    width: 720px;
+  }
+  #locate {
+    width: 720px;
+  }
+
+  #locate iframe {
+    width: 720px;
+   
+  }
+  }
+
   @media (max-width: 425px) {
 
     #main {
@@ -719,4 +744,33 @@ position: relative;
             height: 100px;
         }
         
+  }
+
+  @media (max-width:294px) {
+
+    #main {
+   height: 100vh;
+      
+      background-size: 294px auto;
+    }
+
+    .nav{
+      width: 294px;
+    }
+
+    .about-image img {
+      width: 294px;
+      height: 294px;
+  }
+  .contact-input {
+    width: 294px;
+  }
+  #locate {
+    width: 294px;
+  }
+
+  #locate iframe {
+    width: 294px;
+   
+  }
   }
