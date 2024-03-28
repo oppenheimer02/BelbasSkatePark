@@ -762,6 +762,10 @@ position: relative;
       width: 294px;
       height: 294px;
   }
+#services h1{
+  padding-top: 300px;
+}
+
   .contact-input {
     width: 294px;
   }
