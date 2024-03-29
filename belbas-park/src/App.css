@@ -719,6 +719,38 @@ position: relative;
   }
   }
 
+  @media (max-width: 380px)
+  {
+
+
+    #main {
+      width: auto;
+    }
+    .nav {
+      width: 380px;
+    }  
+
+    
+  .contact-input {
+    width: 380px;
+}
+
+#locate {
+  width: 380px;
+}
+
+  #locate iframe {
+    width: 380px;
+  }
+ 
+          #footer {
+            margin-top: 438px;
+        }
+
+
+  }
+
+
 
 
   @media (max-width: 375px) {
