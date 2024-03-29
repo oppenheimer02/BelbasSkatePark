@@ -719,7 +719,7 @@ position: relative;
   }
   }
 
-  @media (max-width: 380px)
+  @media (max-width: 384px)
   {
 
 
@@ -727,20 +727,20 @@ position: relative;
       width: auto;
     }
     .nav {
-      width: 380px;
+      width: 384px;
     }  
 
     
   .contact-input {
-    width: 380px;
+    width: 384px;
 }
 
 #locate {
-  width: 380px;
+  width: 384px;
 }
 
   #locate iframe {
-    width: 380px;
+    width: 384px;
   }
  
           #footer {
