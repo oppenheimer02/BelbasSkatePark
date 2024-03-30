@@ -140,7 +140,8 @@ nav{
       display: flex;
       justify-content: center;
         align-items: center;
-        background-color:#CE4752 ;
+        background: rgb(238,174,202);
+background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(183,228,152,1) 24%, rgba(79,126,181,1) 100%);
         box-shadow: 5px 10px 30px rgba(2, 238, 255, 0.336);
       color:#ffffff;
       font-weight: bold;
